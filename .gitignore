@@ -1,0 +1,31 @@
+# Dados (nunca versionar)
+data/
+dataset/
+dataset_split/
+Aves_teste_final/
+*.zip
+
+# Pesos de modelo (nunca versionar)
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.bin
+*.safetensors
+modelos_salvos/
+
+# Python e Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Sistema
+.DS_Store
+__MACOSX/
+Thumbs.db
+
+# Saídas locais dos notebooks
+modelos_salvos/

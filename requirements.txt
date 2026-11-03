@@ -1,0 +1,8 @@
+torch>=2.0
+torchvision>=0.15
+torchmetrics>=1.0
+pandas
+pillow
+spacy>=3.0
+kagglehub
+# modelo de linguagem do spaCy: python -m spacy download en_core_web_sm
